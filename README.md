@@ -10,7 +10,7 @@ Once you have Unity installed, you can clone this repository to your computer by
 
 bash
 Copy code
-git clone https://github.com/juvenilesunny/Dodge-game.git
+ [git clone https://github.com/juvenilesunny/Dodge-game.git]
 Alternatively, you can download the repository as a ZIP file by clicking on the green "Code" button at the top of this page and selecting "Download ZIP".
 
 How to Play
